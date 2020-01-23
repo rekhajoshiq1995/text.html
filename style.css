@@ -1,0 +1,43 @@
+.box{
+	width:100px;
+	height:100px;
+	background-color: #000000;
+    padding: 200px;
+    border: 1px solid green;
+}
+
+
+
+.red{
+  height: 200px;
+  width: 200px;
+  background-color: #FF0000;
+  border-radius: 50%;
+}
+.yellow{
+  height: 200px;
+  width: 200px;
+  background-color: #FFFF00;
+  border-radius: 50%;
+}
+.green{
+  height: 200px;
+  width: 200px;
+  background-color: #008000;
+  border-radius: 50%;
+}
+.white{
+  border: black;
+  height: 200px;
+  width: 200px;
+  border: solid;
+  background-color: #none;
+  border-radius: 50%;
+}
+.line{
+  display: inline;
+}
+
+}
+
+display: inline-block;
